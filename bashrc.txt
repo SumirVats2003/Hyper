@@ -1,0 +1,5 @@
+save file as ~/.bashrc
+contents:
+
+export
+PATH+$PATH:~/AppData/Local/Programs/Hyper/resources/bin
